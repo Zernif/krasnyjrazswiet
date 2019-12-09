@@ -7,5 +7,5 @@ tags={
 	"National Focuses"
 	"Sound"
 }
-name="Krasnyj Razswiet"
+name="Krasniy Rassvet"
 supported_version="1.8.1"
